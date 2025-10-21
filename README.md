@@ -14,6 +14,7 @@ API REST - Interface para integração
 🏗️ Arquitetura
 text
 Frontend/Client → Java API (6789) → Azure Container (5000) → PostgreSQL Azure
+
 🚀 Como Executar
 Pré-requisitos
 Java 11+
